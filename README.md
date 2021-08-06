@@ -1,5 +1,7 @@
 ### Olá! Eu sou a Lara
 
+##
+
 <div>
   <a href="https://github.com/laramcj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laramcj&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
@@ -10,7 +12,7 @@
   <img align="center" alt="Lara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!--<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
+  <!--<img align="center" alt="Lara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
 </div>
   
 ##
@@ -37,3 +39,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ela/dela - she/her
 - ⚡ Fato interessante: Amo viajar e esta é a minha segunda faculdade - Fun fact: I love to travel and this is my second graduation.
 -->
+  
+- 🔭 Hoje estou trabalhando com QA. - I’m currently working on QA.
+- 🌱 Estudando Front End/Sistemas para Internet-FIAP - I’m currently learning Front End/Sistemas para Internet-FIAP
+- 📫 Contato: lara.mcj@gmail.com - How to reach me: lara.mcj@gmail.com
+- 😄 Pronouns: ela/dela - she/her
+- ⚡ Fato interessante: Amo viajar e esta é a minha segunda faculdade - Fun fact: I love to travel and this is my second graduation.
