@@ -35,7 +35,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Hoje estou trabalhando com QA. - I’m currently working on QA.
+- 🔭 Hoje estou trabalhando com Angular. - I’m currently working as an Angular developer.
 - 🌱 Estudando Front End/Sistemas para Internet-FIAP - I’m currently learning Front End/Sistemas para Internet-FIAP
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - ⚡ Fato interessante: Amo viajar e esta é a minha segunda faculdade - Fun fact: I love to travel and this is my second graduation.
 -->
   
-- 🔭 Hoje estou trabalhando com QA. - I’m currently working on QA.
+- 🔭 Hoje estou trabalhando com Angular. - I’m currently working as an Angular developer.
 - 🌱 Estudando Front End/Sistemas para Internet-FIAP - I’m currently learning Front End/Sistemas para Internet-FIAP
 - 📫 Contato: lara.mcj@gmail.com - How to reach me: lara.mcj@gmail.com
 - 😄 Pronouns: ela/dela - she/her
