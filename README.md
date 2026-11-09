@@ -1,6 +1,6 @@
 # Olá! Eu sou a Lara 👋
 
-💻 **Front-End Developer | Angular | TypeScript**
+💻 **Front-End Software Engineer | Angular | TypeScript**
 🤖 **Pós-graduanda em Engenharia de IA Aplicada**
 🚀 Interessada em desenvolvimento de software, Inteligência Artificial e novas tecnologias.
 
